@@ -13,7 +13,7 @@ static int hello_init(void)
 
 static void hello_exit(void)
 {
-	printk(KERN_ALERT "Goodbye, wiid9545\n");
+	printk(KERN_ALERT "Goodbye, widi9545\n");
 }
 
 module_init(hello_init);
